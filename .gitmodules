@@ -2,3 +2,6 @@
 	path = wiki
 	url = https://github.com/nanasess/mediawiki.git
 	branch = InvasionWiki
+[submodule "extension/MobileFrontend"]
+	path = extension/MobileFrontend
+	url = https://git.wikimedia.org/git/mediawiki/extensions/MobileFrontend.git
